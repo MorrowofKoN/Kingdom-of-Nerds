@@ -12,6 +12,11 @@
 nav{
     background-color:aquamarine;
     color: black;
-    /*margin-top: 15px*/
     padding-top: 15px;
+}
+
+a.btn{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
 }
