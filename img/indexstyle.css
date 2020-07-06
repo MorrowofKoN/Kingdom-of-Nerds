@@ -1,8 +1,14 @@
 ﻿ul li{
     display:inline;
     padding-right: 25px;
+    padding-top: 10px;
 }
 .table {
     display:table;
     margin: 0 auto;
+}
+
+nav{
+    background-color:aquamarine;
+    color: black;
 }
