@@ -1,5 +1,6 @@
 ﻿ul li{
     display:inline;
+    padding-right: 25px;
 }
 .table {
     display:table;
