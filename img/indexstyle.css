@@ -26,3 +26,7 @@ nav{
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
 }
+
+.about {
+    padding-left: 10px;
+}
