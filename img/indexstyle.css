@@ -41,6 +41,7 @@ nav{
 }
 
 .banner-image {
+    background-image: url("kon.png");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,12 +49,3 @@ nav{
     position: relative;
 }
 
-.banner-text{
-    background-image: url("kon.png");
-    text-align:center;
-    position: absolute;
-    top: 50%;
-    left: 50%; 
-    transform: translate(-50%, -50%);
-    color: white;
-}
