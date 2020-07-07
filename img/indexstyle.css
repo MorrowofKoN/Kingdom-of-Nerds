@@ -1,4 +1,8 @@
-﻿ul li{
+﻿body, html {
+    height:100%;
+}
+
+ul li{
     display:inline;
     padding-right: 25px;
     padding-top: 10px;
@@ -33,4 +37,22 @@ nav{
 
 #statement {
     padding-left: 10px;
+}
+
+.banner-image {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0, 0, 0, 0.5)), url("img/kon.png");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.banner-text{
+    text-align:center;
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    color: white;
 }
