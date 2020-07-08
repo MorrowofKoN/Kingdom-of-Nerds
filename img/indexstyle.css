@@ -1,4 +1,6 @@
-﻿body, html {
+﻿/*CSS code for the index.html file*/
+
+body, html {
     height:100%;
 }
 
@@ -57,3 +59,5 @@ nav{
     transform: translate(-50%, -50%);
     color: white;
 }
+
+/*CSS code for the aboutus.html file*/
