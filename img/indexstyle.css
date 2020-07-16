@@ -4,7 +4,7 @@ body, html {
     height:100%;
 }
 
-#navlist li{
+ul li{
     display:inline;
     padding-right: 25px;
     padding-top: 10px;
@@ -74,4 +74,9 @@ nav{
 
 .aboutbody {
     padding-left: 15px;
+}
+
+/*CSS code for the discordserver.html*/
+#konideals {
+    display: inline;
 }
