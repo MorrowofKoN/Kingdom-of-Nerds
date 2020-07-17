@@ -69,11 +69,11 @@ nav{
     color: white;
 }
 
-#copyright {
+.copyright {
     float: left;
 }
 
-#creators {
+.creators {
     float: right;
 }
 
