@@ -67,6 +67,9 @@ nav{
     width: 100%;
     background-color: black;
     color: white;
+}
+
+#copyright {
     text-align: left;
 }
 
