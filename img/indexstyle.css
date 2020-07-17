@@ -70,11 +70,11 @@ nav{
 }
 
 #copyright {
-    text-align: left;
+    float: left;
 }
 
 #creators {
-    text-align: right;
+    float: right;
 }
 
 /*CSS code for the aboutus.html file*/
