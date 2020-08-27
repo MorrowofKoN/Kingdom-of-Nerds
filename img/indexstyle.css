@@ -77,6 +77,10 @@ nav{
     float: right;
 }
 
+.newsletter {
+    display: inline;
+}
+
 /*CSS code for the aboutus.html file*/
 
 .body {
